@@ -1,13 +1,13 @@
 import React from "react";
 import { NavLink, Link } from "react-router-dom";
-import allegroBtn from "../assets/allegroLogoBlack.png";
+import newLogo from "../assets/newLogo.png";
 
 const NavBar = ({ user }) => {
   return (
     <div className="outter-nav">
       <nav className="navbar navbar-expand-lg navbar-light bg-light ">
         <Link className="navbar-brand" to="/#">
-          <img style={{ maxWidth: 200 }} src={allegroBtn} alt="Allegro Logo" />
+          <img style={{ maxWidth: 200 }} src={newLogo} alt="Allegro Logo" />
         </Link>
         <button
           className="navbar-toggler"
