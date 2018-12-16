@@ -1,3 +1,5 @@
+# [Deployed Application](http://scbinder.us-west-2.elasticbeanstalk.com/)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
