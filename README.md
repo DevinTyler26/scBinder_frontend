@@ -1,5 +1,9 @@
 # [Deployed Application](http://scbinder.us-west-2.elasticbeanstalk.com/)
 
+- To login:
+  - Username: testAdmin or testUser
+  - Password: 123456
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
