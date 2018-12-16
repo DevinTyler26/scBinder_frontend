@@ -1,6 +1,6 @@
 import http from "./httpService";
 
-const apiEndpoint = "/providers";
+const apiEndpoint = "/staff";
 
 function providerUrl(id) {
   return `${apiEndpoint}/${id}`;
